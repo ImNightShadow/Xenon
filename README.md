@@ -1,4 +1,4 @@
-### \> StarPop.jar 
+### \> StarPop 
  Year: 4 June 2018  
  IDE: IntelliJ IDEA  
  Programming Language: Java  
@@ -6,6 +6,7 @@
 
    
  Project [Xenon](https://github.com/NunoPax/Xenon)  @ [<Academia de Código_>](http://www.academiadecodigo.org/)  
+ Base idea from: [Xenon](https://en.wikipedia.org/wiki/Xenon_(video_game))  
  Development team : 
  [Julio Lopes](https://www.linkedin.com/in/thejuliolopes/), 
  [Nuno Paz](https://www.linkedin.com/in/nuno-paz/), 
