@@ -1,47 +1,22 @@
-# Xenon
-Vertical shooter Video-Game.
+### \> StarPop.jar 
+ Year: 4 June 2018  
+ IDE: IntelliJ IDEA  
+ Programming Language: Java  
+ Requirements: JDK 10, ANT, Maven  
 
-All new EnemyShip(s) and Projectile(s) should be acquired via the *Factory so so objects can be reused.
+   
+ Project [Xenon](https://github.com/NunoPax/Xenon)  @ [<Academia de Código_>](http://www.academiadecodigo.org/)  
+ Development team : 
+ [Julio Lopes](https://www.linkedin.com/in/thejuliolopes/), 
+ [Nuno Paz](https://www.linkedin.com/in/nuno-paz/), 
+ [André Lopes](https://www.linkedin.com/in/andrejtlopes/), 
+ [Gabriela F.](https://www.linkedin.com/in/gabriela-f-76445723/)  
+   
+ Vertical shooter game project developed during Bootcamp #15 at <Academia de Código_>  
+ Controls:  
+ :arrow_up: :arrow_down: :arrow_left: :arrow_right: to move.  
+ :heavy_minus_sign: [SPACEBAR] to shoot / acccept / enter.  
 
-The Game's main loop is in the Game class's run method. While the game is still running it will in turn call the methods for updating GameObject(s) positions, and calling the CollisionDetector. 
+### \> Projects languages used  
 
-
-Todo:
--
-[x] Project Skeleton
-
-[X] Draw Screen
-
-[X] Draw Player Ship
-(PlayerShip, GameMap)
-
-[x] PlayerShip movement
-
-[_] Game class - André
-
-[_] Implement EnemyShipFactory
-(EnemyShipFactory, EnemyShip) - Gabriela
-
-[_] Implement EnemyShip(s) and SpaceShip(s)
-(EnemyShip, GameMap) - André
-
-[_] Implement Projectile(s)
-(Projectile) - Julio
-
-[_] Implement ProjectileFactory
-(ProjectileFactory, Projectile) - Gabriela
-
-[_] Ship(s) can shoot projectiles
-(SpaceShip, ProjectileFactory, Game) - Julio
-
-[_] Implement CollisionDetection
-(CollisionDetector, GameObject, SpaceShip) - Nuno
-
-[_] Gain points for destroying EnemyShip(s)
-(Game, EnemyShip, PlayerShip, CollisionDetector) - Nuno
-
-[_] Implement obstacles
-(new class)
-
-[_] Implement Power Ups
-(new class)
+- [x]  Java
